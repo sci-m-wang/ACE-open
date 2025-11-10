@@ -1,6 +1,6 @@
 # OpenCE: 开放上下文工程工具箱
 
-[English](https://github.com/sci-m-wang/OpenCE/README.md) | [中文](https://github.com/sci-m-wang/OpenCE/README_ZH.md)
+[English](https://github.com/sci-m-wang/OpenCE/blob/main/README.md) | [中文](https://github.com/sci-m-wang/OpenCE/blob/main/README_ZH.md)
 
 ### 🚀 项目演进：从 `ACE-open` 到 `OpenCE`
 
@@ -64,7 +64,7 @@
   * 三种 Agent 角色 (Generator, Reflector, Curator) 通过增量“Deltas 更新”进行交互。
   * 离线 (Offline) 和在线 (Online) 适应循环支持多轮训练和测试时的持续学习。
 
-关于该方法的精炼总结，请参阅 [docs/method\_outline.md](https://github.com/sci-m-wang/OpenCE/docs/method_outline.md)。
+关于该方法的精炼总结，请参阅 [docs/method\_outline.md](https://github.com/sci-m-wang/OpenCE/blob/main/docs/method_outline.md)。
 
 ### 项目结构
 
